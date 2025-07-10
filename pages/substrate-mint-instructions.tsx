@@ -4,7 +4,7 @@ export default function SubstrateMintINstructions() {
       <h1>Minting NFTs on Substrate chain</h1>
       <ol>
         <li>
-          Open <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fzombienet.perun.network%3A9999#/extrinsics" target="_blank">Polkadot.js</a> and tgo to the Developer &gt; Extrinisics &gt; Submission tab.
+          Open <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fzombienet.perun.network%3A9999#/extrinsics" target="_blank">Polkadot.js</a> and go to the Developer &gt; Extrinisics &gt; Submission tab.
         </li>
         <li>
           (Optional) Create your own collection (not shown here).
